@@ -192,6 +192,106 @@ At here, we collected essential all of the recycling information for UCSD studen
 
 ## Why should we recycle?
 
+I guess, lots of people might be wondering, why we care so much about recycling? &#129300; Well, be frankly, though Recycling e-wastes according to strict rules is tiresome when we can just simply throw them away in regular recycling bins, there are deeper reasons why we should endeavor to recycle to make our environment sustainable.
+
+1. &#128293; `Fire hazard of lithium-ion batteries` 
+
+    Did you know that lithium batteries often cause fire in the landfill, houses, or trash cans when they are not disposed of properly? 
+
+    Actually, any forces that lead to overheating of batteries, such as internal defects or external damage, would initiate chemical reactions inside the batteries, and in extreme cases, it would fire. 
+
+    <img src="pictures/lithium-ion-batteries-fire.png" width="350" height="180" />
+
+    <img src="pictures/lithium-ion-data.png" width="350" height="220" />
+
+    What's worse, `fire extinguisher or water` cannot be used to put out battery fires since they are both a metal fire and liquid vapor fire. Only cooling it down would work, which requires a large amount of time. Due to this difficulty of extinguishing, battery fire causes a huge property damage, injuries and deaths when it occurs in cities. 
+    
+    This is why we need to cover the terminals of batteries with electrical tapes, to prevent catching fire. 
+
+2. &#x2623; `Chemical leakage and soil pollution`
+
+    <img src="pictures/chemical-leakage.png" width="370" height="240" />
+
+    E-wastes have a variety of chemicals inside, which could be harmful to environment. When we dump e-wastes in the landfill trash bins, they will be buried in the ground and those hazardous chemicals will seep into the soil.
+
+   ` What happens once those chemicals enter the soil? ` &#129300;
+    
+    First, soil itself will be contaminated. Land will be less productive for farm usage, could cause illnesses who live on that land, and prevent future usage as those permeated chemicals do not get ridden off easily. 
+
+    Next, chemicals would leak into groundwater, and eventually reach out to rivers, lakes, or sea. As the water cycles within the environmental hemisphere, it will render water less edible and liveable, damaging animals, plants, and other organisms that are a crucial part of the ecosystem.
+
+    As a result, we will be more vulnerable to contaminated water, chemical exposure, and seafood that accumulated chemicals throughout the food chain, tasting the consequence of our behavior.
+
+## Benefit of Recycling
+
+1. &#128800; **`Saving Raw Resources`** &#x1F71C;
+
+    First of all, the used products we collected can be decomposed at certain recycling centers and we can extract plenty of raw materials from these recycled products for future production. 
+
+     Below are  a list of raw materials that can be extracted from common e-wastes
+
+    <img src="pictures/recycling-material.png" width="400" height="200" />
+
+    As most of the resources we are using right now are irreproducible, it's necessary for us to promote the recycling of used products for the better life of our future generation.
+
+2. &#x1F6E2; **`Reducing Emissions & Energy Consumption`** ☁️
+
+    Recycling materials means less mining for raw materials, extracting virgin materials from various sources which requires lots of petroleum-based energy that emits greenhouse gas. Simply put, recycling reduces the greenhouse effect. 
+
+3. **`Healthy ecosystem & conserve resourcee`**
+
+    Mining or extracting oil has the potential to pollute the surrounding environment, such as the sea or forest. If we can reduce the amount of raw materials we need through thorough recycling, we can lessen the burden on our environment and preserve non-reusable resources.
+
+4. **`Eco awareness & use less landfills`**
+
+    Did you know that rich countries export waste to developing countries to preserve their environment while not taking care of other countries’ environment? Those wastes still eat up lands on earth, rendering less areas available for human usage. With recycling, not only we can enhance our eco-awareness and spare lands on the other side of the world. 
+
+
+    <img src="pictures/world-map.png" width="400" height="200" />
+
+5. &#128181; **`Saves money & Domestic market & creating jobs`** 
+
+## General Rules on Recycling
+
+While trying to do recycling is valuable itself, we would like to do it properly so that our behavior does not become meaningless. While there are many complex regulations for each item to recycle, we can memorize the most basic rules for commonly disposed items. Here are several rules of thumbs.
+
+* Do not leave remnants of food in the wastes.
+
+* If it’s dirty inside, wash it up before dump it. 
+
+* If you can, minimize the size as much as you can.
+
+* Break down and flatten boxes so that they won’t    take too much space.
+
+* Plastic bags, shredded paper, scrap metal, and medicines are not recyclable.
+
+* Do not bag your recyclables, place them loose in the bin.
+
+* For plastic bottles, containers, and glasses, keep the lid on. 
+
+* Rip off labels from the plastic bottles.
+
+Here are several useful video links that can be referred to before drop-off e-waste:
+
+* Easier ways to recycle: [Click Here](https://www.youtube.com/watch?v=cKvcAOHeoTs), [Click here](https://www.youtube.com/watch?v=TdisqujMsgw)
+
+* Lots of fact about recycling batteries: [Click Here](https://guides.library.illinois.edu/battery-recycling/facts)
+
+* The disposal methods and potential damage from each kind of battery: [Click Here](https://www.epa.gov/recycle/used-household-batteries)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
