@@ -16,7 +16,7 @@ Alongside the guidance provided in the website, the project will also look into 
 
 Did you know that the U.S. has only 35% of recycling rate, which is only half of Germany’s recycling rate?
 
-<img src="pictures/recycling_rates_from_countries.jpeg" width="400" height="300" />
+<img src="pictures/recycling_rates_from_countries.jpeg" width="600" height="500" />
 
 It is quite shocking, right? &#x1F631; \
 Yet, we have various ways to increase our recycling rate of e-wastes on UCSD campus using university facilities!
@@ -59,11 +59,11 @@ At here, we collected essential all of the recycling information for UCSD studen
 
     2. Put them in the container like this &#128071;
     
-        <img src="pictures/bins_for_cans.png" width="80" height="100" />
+        <img src="pictures/bins_for_cans.png" width="200" height="200" />
 
     3. Put two labels on the container:
         
-        <img src="pictures/Label.png" width="350" height="160" />
+        <img src="pictures/Label.png" width="500" height="220" />
 
         * Yellow Glass & Plastic Waste Label - can be downloaded [here](canhttps://blink.ucsd.edu/_files/safety-tab/research/yellow-label.pdf) 
 
@@ -104,7 +104,7 @@ At here, we collected essential all of the recycling information for UCSD studen
     
     1. Miramar Recycling Center 
 
-        <code style="color : LightSkyBlue"> Location:  North of state Route 52 at 5165 Convoy St. in San Diego`
+        <code style="color : SpringGreen"> Location:  North of state Route 52 at 5165 Convoy St. in San Diego`
 
         Operation Hours: Monday through Saturday from 7 a.m. to 4:30 p.m.
 
@@ -143,11 +143,11 @@ At here, we collected essential all of the recycling information for UCSD studen
 
     2. Update Green Electronics Recycling Center 
 
-        <code style="color : LightSkyBlue"> Location: 7887 Dunbrook Rd. Suite C, San Diego, CA, 92126</code>
+        <code style="color : SpringGreen"> Location: 7887 Dunbrook Rd. Suite C, San Diego, CA, 92126</code>
 
-       <code style="color : LightSkyBlue"> Hours: Monday through Friday 9am – 4pm, Saturday 10am – 3pm </code>
+       <code style="color : SpringGreen"> Hours: Monday through Friday 9am – 4pm, Saturday 10am – 3pm </code>
 
-       <code style="color : LightSkyBlue"> Website:</code> [at here](https://updategreen.com/)
+       <code style="color : SpringGreen"> Website:</code> [at here](https://updategreen.com/)
 
 
        * Products that can be Dropped Free:
