@@ -102,11 +102,11 @@ At here, we collected essential all of the recycling information for UCSD studen
     
     1. Miramar Recycling Center 
 
-        `Location:  North of state Route 52 at 5165 Convoy St. in San Diego`
+        <code style="color : LightSkyBlue"> Location:  North of state Route 52 at 5165 Convoy St. in San Diego`
 
-        `Operation Hours: Monday through Saturday from 7 a.m. to 4:30 p.m.`
+        Operation Hours: Monday through Saturday from 7 a.m. to 4:30 p.m.
 
-        `Website: `[Click Here](https://www.sandiego.gov/environmental-services/recycling/centers/miramarrecycle)
+        Website: </code> [Click Here](https://www.sandiego.gov/environmental-services/recycling/centers/miramarrecycle)
 
 
         It is a San Diego-located landfill & recycling center, 20 minutes away from the UCSD by car. While they accept various recyclable materials, some are coming with a fee, while others are not. Here are the list.
@@ -141,11 +141,11 @@ At here, we collected essential all of the recycling information for UCSD studen
 
     2. Update Green Electronics Recycling Center 
 
-        `Location: 7887 Dunbrook Rd. Suite C, San Diego, CA, 92126`
+        <code style="color : LightSkyBlue"> Location: 7887 Dunbrook Rd. Suite C, San Diego, CA, 92126</code>
 
-       `Hours: Monday through Friday 9am – 4pm, Saturday 10am – 3pm`
+       <code style="color : LightSkyBlue"> Hours: Monday through Friday 9am – 4pm, Saturday 10am – 3pm </code>
 
-       `Website: `[Clikc Here](https://updategreen.com/)
+       <code style="color : LightSkyBlue"> Website:</code> [at here](https://updategreen.com/)
 
 
        * Products that can be Dropped Free:
@@ -187,14 +187,14 @@ At here, we collected essential all of the recycling information for UCSD studen
 
         Apple stores accept Apple watch, iPhones, Mac, iPad, and other Apple devices. [Click here](https://www.apple.com/shop/trade-in) for more information.
 
-    `Since most electronic shops usually accept trade-ins especially related to their selling products, consider doing trade-ins before you throw them away!`
+    **Since most electronic shops usually accept trade-ins especially related to their selling products, consider doing trade-ins before you throw them away!**
 
 
 ## Why should we recycle?
 
 I guess, lots of people might be wondering, why we care so much about recycling? &#129300; Well, be frankly, though Recycling e-wastes according to strict rules is tiresome when we can just simply throw them away in regular recycling bins, there are deeper reasons why we should endeavor to recycle to make our environment sustainable.
 
-1. &#128293; `Fire hazard of lithium-ion batteries` 
+1. &#128293; <code style="color : Red"> Fire hazard of lithium-ion batteries </code>
 
     Did you know that lithium batteries often cause fire in the landfill, houses, or trash cans when they are not disposed of properly? 
 
@@ -204,17 +204,17 @@ I guess, lots of people might be wondering, why we care so much about recycling?
 
     <img src="pictures/lithium-ion-data.png" width="350" height="220" />
 
-    What's worse, `fire extinguisher or water` cannot be used to put out battery fires since they are both a metal fire and liquid vapor fire. Only cooling it down would work, which requires a large amount of time. Due to this difficulty of extinguishing, battery fire causes a huge property damage, injuries and deaths when it occurs in cities. 
+    What's worse, <code style="color : Gold"> fire extinguisher or water </code> cannot be used to put out battery fires since they are both a metal fire and liquid vapor fire. Only cooling it down would work, which requires a large amount of time. Due to this difficulty of extinguishing, battery fire causes a huge property damage, injuries and deaths when it occurs in cities. 
     
     This is why we need to cover the terminals of batteries with electrical tapes, to prevent catching fire. 
 
-2. &#x2623; `Chemical leakage and soil pollution`
+2. &#x2623; <code style="color : Red">Chemical leakage and soil pollution </code>
 
     <img src="pictures/chemical-leakage.png" width="370" height="240" />
 
     E-wastes have a variety of chemicals inside, which could be harmful to environment. When we dump e-wastes in the landfill trash bins, they will be buried in the ground and those hazardous chemicals will seep into the soil.
 
-   ` What happens once those chemicals enter the soil? ` &#129300;
+   <code style="color : Gold"> What happens once those chemicals enter the soil? </code> &#129300;
     
     First, soil itself will be contaminated. Land will be less productive for farm usage, could cause illnesses who live on that land, and prevent future usage as those permeated chemicals do not get ridden off easily. 
 
@@ -224,7 +224,7 @@ I guess, lots of people might be wondering, why we care so much about recycling?
 
 ## Benefit of Recycling
 
-1. &#128800; **`Saving Raw Resources`** &#x1F71C;
+1. &#128800; <code style="color : Green"> Saving Raw Resources </code> &#x1F71C;
 
     First of all, the used products we collected can be decomposed at certain recycling centers and we can extract plenty of raw materials from these recycled products for future production. 
 
@@ -234,22 +234,25 @@ I guess, lots of people might be wondering, why we care so much about recycling?
 
     As most of the resources we are using right now are irreproducible, it's necessary for us to promote the recycling of used products for the better life of our future generation.
 
-2. &#x1F6E2; **`Reducing Emissions & Energy Consumption`** ☁️
+2. &#x1F6E2; <code style="color : Green"> Reducing Emissions & Energy Consumption </code> ☁️
 
     Recycling materials means less mining for raw materials, extracting virgin materials from various sources which requires lots of petroleum-based energy that emits greenhouse gas. Simply put, recycling reduces the greenhouse effect. 
 
-3. **`Healthy ecosystem & conserve resourcee`**
+3. <code style="color : Green">Healthy ecosystem & conserve resourcee </code>
 
     Mining or extracting oil has the potential to pollute the surrounding environment, such as the sea or forest. If we can reduce the amount of raw materials we need through thorough recycling, we can lessen the burden on our environment and preserve non-reusable resources.
 
-4. **`Eco awareness & use less landfills`**
+4. <code style="color : Green"> Eco awareness & use less landfills </code>
 
     Did you know that rich countries export waste to developing countries to preserve their environment while not taking care of other countries’ environment? Those wastes still eat up lands on earth, rendering less areas available for human usage. With recycling, not only we can enhance our eco-awareness and spare lands on the other side of the world. 
 
 
-    <img src="pictures/world-map.png" width="400" height="200" />
+    <img src="pictures/world-map.png" width="400" height="200"/>
 
-5. &#128181; **`Saves money & Domestic market & creating jobs`** 
+5. &#128181;  <code style="color : Green"> Saves money & Domestic market & creating jobs </code> 
+
+    There is an economic benefit to recycling. The U.S. imported $249,799 million worth of raw materials in 2021. Yet, the more we raise the U.S. recycling rate, the more we will save money on imports of raw materials. Moreover, raising recycling industry creates a variety of jobs across sections: such as route managers, sorters, drivers, mechanics or technicians for recycling machines, etc. According to US recycling economic information (REI), recycling industry hires 1.25 million people while the US solid waste management industry only employed one-fifth of it as recycling is more labor intensive.
+
 
 ## General Rules on Recycling
 
@@ -273,11 +276,11 @@ While trying to do recycling is valuable itself, we would like to do it properly
 
 Here are several useful video links that can be referred to before drop-off e-waste:
 
-* Easier ways to recycle: [Click Here](https://www.youtube.com/watch?v=cKvcAOHeoTs), [Click here](https://www.youtube.com/watch?v=TdisqujMsgw)
+* Easier ways to recycle: [click here](https://www.youtube.com/watch?v=cKvcAOHeoTs), [click here](https://www.youtube.com/watch?v=TdisqujMsgw)
 
-* Lots of fact about recycling batteries: [Click Here](https://guides.library.illinois.edu/battery-recycling/facts)
+* Lots of fact about recycling batteries: [click here](https://guides.library.illinois.edu/battery-recycling/facts)
 
-* The disposal methods and potential damage from each kind of battery: [Click Here](https://www.epa.gov/recycle/used-household-batteries)
+* The disposal methods and potential damage from each kind of battery: [click here](https://www.epa.gov/recycle/used-household-batteries)
 
 
 
