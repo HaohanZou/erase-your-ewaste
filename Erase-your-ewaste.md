@@ -1,10 +1,10 @@
 <meta charset="utf-8">
 
-# Erase the E-waste
+# Erase the E-Waste
 
 ## Introduction
 
-This is the official website for group "E-waste Invention" from SYN 100 Section M Fall 2023 &#x1F9DC;&#x1F9DC;&#x1F9DC;. In our project, we aim to spread awareness on the mistakes often made when recycling and also create a collection program for Seventh college to make e-waste disposal readily available for on campus students. We wish to spread awareness of improper recycling, especially on campus, by creating a guide (in the form of a website) to help students differentiate what should and shouldn’t be recycled. This website will include information on the dangers of improper recycling and e-waste, why it is important to follow the recycling guide when sorting garbage, and recycling guidances both for recycling certens within UCSD &#x1F9DC; campus and outside public recycling centers.
+This is the official website for group "Erase E-Waste Invention" from SYN 100 Section M Fall 2023 &#x1F9DC;&#x1F9DC;&#x1F9DC;. In our project, we aim to spread awareness on the mistakes often made when recycling and also create a collection program for Seventh college to make e-waste disposal readily available for on campus students. We wish to spread awareness of improper recycling, especially on campus, by creating a guide (in the form of a website) to help students differentiate what should and shouldn’t be recycled. This website will include information on the dangers of improper recycling and e-waste, why it is important to follow the recycling guide when sorting garbage, and recycling guidances both for recycling certens within UCSD &#x1F9DC; campus and outside public recycling centers.
 
 Alongside the guidance provided in the website, the project will also look into the lack of access for UCSD students regarding e-waste recycling. Interviews will mainly be conducted towards students to better understand the issue of student’s lack of knowledge of e-waste disposal. If anyone interested in the our inteview, please dive further on our [Instgram]() 
 
@@ -14,7 +14,7 @@ Alongside the guidance provided in the website, the project will also look into 
 
 Did you know that the U.S. has only 35% of recycling rate, which is only half of Germany’s recycling rate?
 
-<img src="pictures/recycling_rates_from_countries.jpeg" width="400" height="300" />
+<img src="pictures/recycling_rates_from_countries.jpeg" width="600" height="500" />
 
 It is quite shocking, right? &#x1F631; \
 Yet, we have various ways to increase our recycling rate of e-wastes on UCSD campus using university facilities!
@@ -57,11 +57,11 @@ At here, we collected essential all of the recycling information for UCSD studen
 
     2. Put them in the container like this &#128071;
     
-        <img src="pictures/bins_for_cans.png" width="80" height="100" />
+        <img src="pictures/bins_for_cans.png" width="200" height="200" />
 
     3. Put two labels on the container:
         
-        <img src="pictures/Label.png" width="350" height="160" />
+        <img src="pictures/Label.png" width="500" height="220" />
 
         * Yellow Glass & Plastic Waste Label - can be downloaded [here](canhttps://blink.ucsd.edu/_files/safety-tab/research/yellow-label.pdf) 
 
@@ -102,7 +102,7 @@ At here, we collected essential all of the recycling information for UCSD studen
     
     1. Miramar Recycling Center 
 
-        <code style="color : LightSkyBlue"> Location:  North of state Route 52 at 5165 Convoy St. in San Diego`
+        <code style="color : SpringGreen"> Location:  North of state Route 52 at 5165 Convoy St. in San Diego`
 
         Operation Hours: Monday through Saturday from 7 a.m. to 4:30 p.m.
 
@@ -141,11 +141,11 @@ At here, we collected essential all of the recycling information for UCSD studen
 
     2. Update Green Electronics Recycling Center 
 
-        <code style="color : LightSkyBlue"> Location: 7887 Dunbrook Rd. Suite C, San Diego, CA, 92126</code>
+        <code style="color : SpringGreen"> Location: 7887 Dunbrook Rd. Suite C, San Diego, CA, 92126</code>
 
-       <code style="color : LightSkyBlue"> Hours: Monday through Friday 9am – 4pm, Saturday 10am – 3pm </code>
+       <code style="color : SpringGreen"> Hours: Monday through Friday 9am – 4pm, Saturday 10am – 3pm </code>
 
-       <code style="color : LightSkyBlue"> Website:</code> [at here](https://updategreen.com/)
+       <code style="color : SpringGreen"> Website:</code> [at here](https://updategreen.com/)
 
 
        * Products that can be Dropped Free:
@@ -214,7 +214,7 @@ I guess, lots of people might be wondering, why we care so much about recycling?
 
     E-wastes have a variety of chemicals inside, which could be harmful to environment. When we dump e-wastes in the landfill trash bins, they will be buried in the ground and those hazardous chemicals will seep into the soil.
 
-   <code style="color : Gold"> What happens once those chemicals enter the soil? </code> &#129300;
+   <code style="color : chocolate"> What happens once those chemicals enter the soil? </code> &#129300;
     
     First, soil itself will be contaminated. Land will be less productive for farm usage, could cause illnesses who live on that land, and prevent future usage as those permeated chemicals do not get ridden off easily. 
 
