@@ -1,5 +1,3 @@
-# erase-your-ewaste
-
 <meta charset="utf-8">
 
 # Erase the E-waste
@@ -46,13 +44,17 @@ At here, we collected essential all of the recycling information for UCSD studen
 
 * &#x1F4F1; Cell Phone:
     * Location of Cell Phone Recycling Bins:
+
         1. Price Center Bookstore
+
         2. College Residential Life Office
     
     * Campus Mail System:
+
         1. Address your package to "Cell Phone" at Mail Code 0958.
 
-* Aerosol cans:\
+* Aerosol cans:
+
     You must enjoy the fantastic party with your friend. Well, after relaxing, it's our responsibility to recycle those used stuff.
 
     1. First, Make sure they are completely empty: no residual would remain inside
@@ -102,7 +104,7 @@ At here, we collected essential all of the recycling information for UCSD studen
     Here's several recycling center recommended to all students who live on campus or near the campus:
 
     
-    1. Miramar Recycling Center 
+    1. **Miramar Recycling Center** 
 
          Location:  North of state Route 52 at 5165 Convoy St. in San Diego`
 
@@ -141,7 +143,7 @@ At here, we collected essential all of the recycling information for UCSD studen
 
                 **Fees (all customers) $12.00 each**
 
-    2. Update Green Electronics Recycling Center 
+    2. **Update Green Electronics Recycling Center**
 
         Location: 7887 Dunbrook Rd. Suite C, San Diego, CA, 92126
 
@@ -216,7 +218,7 @@ I guess, lots of people might be wondering, why we care so much about recycling?
 
     E-wastes have a variety of chemicals inside, which could be harmful to environment. When we dump e-wastes in the landfill trash bins, they will be buried in the ground and those hazardous chemicals will seep into the soil.
 
-   <code style="color : Gold"> What happens once those chemicals enter the soil? </code> &#129300;
+   <code style="color : Blue"> What happens once those chemicals enter the soil? </code> &#129300;
     
     First, soil itself will be contaminated. Land will be less productive for farm usage, could cause illnesses who live on that land, and prevent future usage as those permeated chemicals do not get ridden off easily. 
 
@@ -232,7 +234,7 @@ I guess, lots of people might be wondering, why we care so much about recycling?
 
      Below are  a list of raw materials that can be extracted from common e-wastes
 
-    <img src="pictures/recycling-material.png" width="400" height="200" />
+    <img src="pictures/recycling-material.png" width="600" height="300" />
 
     As most of the resources we are using right now are irreproducible, it's necessary for us to promote the recycling of used products for the better life of our future generation.
 
@@ -289,16 +291,16 @@ Here are several useful video links that can be referred to before drop-off e-wa
 
 1. From the question "Do you have any gadget, batteries, vapes, or appliances that need to be thrown away?", we can see that the demand for recycling small electronic devices and batteries is pretty high. Half of our survey particiapnts respond with a confirmed answer.
 
-<iframe src="Q1_hist.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="Q1_hist_update.html" width=800 height=600 frameBorder=0></iframe>
 
 2. We following asked the way people deal with their dead batteries and small electronic devices out of use, and we can see that most responsers don't have a habit of properly recycling these stuff. Most of them will either stack them at home or throw these devices into a normal trash bin as regular trash, which can reflect that the recycling education still has a lot work to do.
 
-<iframe src="Q2_hist.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="Q2_hist_update.html" width=800 height=600 frameBorder=0></iframe>
 
 3. The third question asks about UCSD students' opinion on UCSD's recycling services, and from the response we can see that most of the students don't have any clue about these services. To be frank, when we are doing research about on campus service, we found that though there are several kinds of recycling services offered in campus, such as dead batteries collection, most of them are inaccessible to students due to the high recycling fees and complex recycling procedures. Also, the advertisements of these services can be barely found, so it's reasonable to see most students have no idea about the recycling services at UCSD campus.
 
-<iframe src="Q3_hist.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="Q3_hist_update.html" width=800 height=600 frameBorder=0></iframe>
 
 4. The fourth question is similar to the second one, but with object to e-cigarette. The results are similar to the graph in second question, only a small proportion of responsers will explicitly recycle their used e-cigarette at proper locations. 
 
-<iframe src="Q4_hist.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="Q4_hist_update.html" width=800 height=600 frameBorder=0></iframe>
