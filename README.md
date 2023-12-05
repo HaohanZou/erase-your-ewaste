@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 
-# Erase the E-waste
+# Erase E-waste
 
 ## Introduction
 
