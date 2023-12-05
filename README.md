@@ -208,7 +208,7 @@ I guess, lots of people might be wondering, why we care so much about recycling?
 
     <img src="pictures/lithium-ion-data.png" width="350" height="220" />
 
-    What's worse, <code style="color : Gold"> fire extinguisher or water </code> cannot be used to put out battery fires since they are both a metal fire and liquid vapor fire. Only cooling it down would work, which requires a large amount of time. Due to this difficulty of extinguishing, battery fire causes a huge property damage, injuries and deaths when it occurs in cities. 
+    What's worse, **fire extinguisher or water** cannot be used to put out battery fires since they are both a metal fire and liquid vapor fire. Only cooling it down would work, which requires a large amount of time. Due to this difficulty of extinguishing, battery fire causes a huge property damage, injuries and deaths when it occurs in cities. 
     
     This is why we need to cover the terminals of batteries with electrical tapes, to prevent catching fire. 
 
