@@ -291,16 +291,16 @@ Here are several useful video links that can be referred to before drop-off e-wa
 
 1. From the question "Do you have any gadget, batteries, vapes, or appliances that need to be thrown away?", we can see that the demand for recycling small electronic devices and batteries is pretty high. Half of our survey particiapnts respond with a confirmed answer.
 
-<iframe src="Q1_hist_update.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="Survey/Q1_hist_update.html" width=800 height=600 frameBorder=0></iframe>
 
 2. We following asked the way people deal with their dead batteries and small electronic devices out of use, and we can see that most responsers don't have a habit of properly recycling these stuff. Most of them will either stack them at home or throw these devices into a normal trash bin as regular trash, which can reflect that the recycling education still has a lot work to do.
 
-<iframe src="Q2_hist_update.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="Survey/Q2_hist_update.html" width=800 height=600 frameBorder=0></iframe>
 
 3. The third question asks about UCSD students' opinion on UCSD's recycling services, and from the response we can see that most of the students don't have any clue about these services. To be frank, when we are doing research about on campus service, we found that though there are several kinds of recycling services offered in campus, such as dead batteries collection, most of them are inaccessible to students due to the high recycling fees and complex recycling procedures. Also, the advertisements of these services can be barely found, so it's reasonable to see most students have no idea about the recycling services at UCSD campus.
 
-<iframe src="Q3_hist_update.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="Survey/Q3_hist_update.html" width=800 height=600 frameBorder=0></iframe>
 
 4. The fourth question is similar to the second one, but with object to e-cigarette. The results are similar to the graph in second question, only a small proportion of responsers will explicitly recycle their used e-cigarette at proper locations. 
 
-<iframe src="Q4_hist_update.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="Survey/Q4_hist_update.html" width=800 height=600 frameBorder=0></iframe>
